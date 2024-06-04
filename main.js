@@ -10,5 +10,17 @@ let userDates = document.getElementById ('results');
 
 userNumber.innerHTML = 21;
 
+// Chiedi all’utente il suo nome
+
+userName.innerHTML = prompt ('Inserisci il tuo nome');
+
+//  Chiedi all’utente il suo cognome
+
+userSurname.innerHTML = prompt ('Inserisci il tuo cognome');
+
+//  Chiedi all’utente il suo colore preferito
+
+userColor.innerHTML = prompt ('Inserisci il tuo colore');
+
 
 
